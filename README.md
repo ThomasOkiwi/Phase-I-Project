@@ -1,4 +1,4 @@
-Link to Slides:https://docs.google.com/presentation/d/1eJgCcMZT52SB8bKg3RhaCB2MflTmzcfXdBdgORj02S8/edit#slide=id.g24b86b69f4a_0_57
+Link to Slides:https://docs.google.com/presentation/d/1eJgCcMZT52SB8bKg3RhaCB2MflTmzcfXdBdgORj02S8/edit?usp=sharing
 
 # Introduction
 ### Objective of the project
