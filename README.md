@@ -35,7 +35,7 @@ Movie_vote=pd.read_csv("tmdb.movies.csv")
 Thisfile contains vote rating for the movies which is import to understand the customers likes and dislikes based on the content.
 ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/fc422e03-c3e4-4a94-9289-9581577a293f)
 
-#### Identiying Missing Values in the Files
+
 ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/0a52dd7a-f4ea-4fbb-9427-74c75c03fd51)
 Columns domestict_ gross and foreign_gross   are sting yet mathematical operation ases supposed to be done.
 
