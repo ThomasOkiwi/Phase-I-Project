@@ -24,12 +24,6 @@ df6=pd.read_csv("title.crew.csv")
 df7=pd.read_csv("title.principals.csv")
 Movie_rating=pd.read_csv("title.ratings.csv")
 Movie_vote=pd.read_csv("tmdb.movies.csv")
-Budget_file
-Budget file containt information on the cost of production and the revenue realised after the sale of the movies.This file will be key in calculation of profit and losses the the individual movie incurred.
-Budget_file.head()
-id	release_date	movie	production_budget	domestic_gross	worldwide_gross
-0	1	Dec 18, 2009	Avatar	$425,000,000	$760,507,625	$2,776,345,279
-1	2	May 20, 2011	Pirates of the Caribbean: On Stranger Tides	$410,600,000	$241,063,875	$1,045,663,875
-2	3	Jun 7, 2019	Dark Phoenix	$350,000,000	$42,762,350	$149,762,350
-3	4	May 1, 2015	Avengers: Age of Ultron	$330,600,000	$459,005,868	$1,403,013,963
-4	5	Dec 15, 2017	Star Wars Ep. VIII: The Last Jedi	$317,000,000	$620,181,382	$1,316,721,747
+
+###### Budget_file
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/8525cd62-6c30-495c-a400-313c28b8da71)
