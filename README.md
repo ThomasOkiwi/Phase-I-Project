@@ -33,4 +33,4 @@ Movie_vote=pd.read_csv("tmdb.movies.csv")
 ## DATA CLEANING
 #### Movie_vote
 Thisfile contains vote rating for the movies which is import to understand the customers likes and dislikes based on the content.
-![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/b0b59ca9-3adc-4d98-9385-30a95b3360ed)
+
