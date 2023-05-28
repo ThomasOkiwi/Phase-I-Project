@@ -64,15 +64,16 @@ Above are the top 20 most profitable genres
 ### Corelation between Genre rating and profit reveue
 ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/e84ed263-d61c-40f5-9a98-1a8607fbb8a8)
 
-## Conclusiions
-1. Horror movies takes the least rating in the grenre
-2. Action movies made the lowest prorit margins
+## Conclusions
+1. Horror movies takes the least rating in the genre
+2. Action movies made the lowest profit margins
 3. Adventure drama and sports genres were among the to profit earners
-4. Comedy, fantacy and adventure genres we the most liked by audiences. These grenres had the top rating
-5. Higher rated movie, are likely to make more prfits than lower ratred onces
+4. Comedy, fantasy and adventure genres we the most liked by audiences. These genres had the top rating
+5. Higher rated movie, are likely to make more profits than lower rated ones
 ## Recomendations
-1. It is important to consider genres that are liked by many viewers before investiong in movie production industries. From the study above, action, horror, war movies have least rating and coresponding low revenue.
-2. When producing a sequel movies. It is important to take note of the viever reviview and comment before release of the net sequel.
-3. Based on the outcome of the study, Microsoft Production Studiio may consider producing adventure, Comedy, drama, fantasy and romance. This are the top earnig grenres as well as top rated ones.
+1. It is important to consider genres that are liked by many viewers before investing in movie production industries. From the study above, action, horror, war movies have least rating and corresponding low revenue.
 
+2. When producing a sequel movies. It is important to take note of the viewer review and comment before release of the net sequel.
+
+3. Based on the outcome of the study, Microsoft Production Studio may consider producing adventure, Comedy, drama, fantasy and romance. This are the top earning genres as well as top rated ones.
 
