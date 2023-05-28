@@ -31,6 +31,7 @@ Movie_vote=pd.read_csv("tmdb.movies.csv")
 
 
 ## DATA CLEANING
+This is the section of checking data, removing outliers and duplicteds vallue that would otherwise lead to a wrong conclusion
 #### Movie_vote
 Thisfile contains vote rating for the movies which is import to understand the customers likes and dislikes based on the content.
 ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/fc422e03-c3e4-4a94-9289-9581577a293f)
@@ -40,5 +41,27 @@ Thisfile contains vote rating for the movies which is import to understand the c
 Columns domestict_ gross and foreign_gross   are sting yet mathematical operation ases supposed to be done.
 
 ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/2fa22de1-814b-4b08-a6c1-400259e3dca1)
+
 Missing values in the repective columns are now replaced by median. This is to enure the data replced do not fall too far from the mean.
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/8593b431-3b31-4600-a9ee-92f12abdc613)
+
+## DATA ANALYSIS
+This section deals with data manupulation in order to solve the given problem. In this case, advise Microsft on the type of movie to produce. This section will include recomendetions and conclusion based on the results from the data.
+### Caculatiting the profit of producing a movie
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/9966d2ce-bcb8-469d-ad2d-9710faa7e8c9)
+From the table, there are some movies that brought profit like, Avatar while some lead lo loses eg.Return to the Land of Wonders
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/fccb10c0-033e-4b25-8cc4-07bceb0a3de1)
+Above are the top 20 most profitable genres
+
+#### Movie Genre Ratings
+ Below is the top 20 rated genres 
+ ![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/d307e763-5f7a-4d04-bdbd-bd1a03cdd40d)
+
+
+#### Relationship between Genre rating and profit earnerd 
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/64860fd1-79bb-4279-a7c5-7b689c7f3a94)
+
+### Corelation between Genre rating and profit reveue
+![image](https://github.com/ThomasOkiwi/Phase-I-Project/assets/133016687/e84ed263-d61c-40f5-9a98-1a8607fbb8a8)
+
 
