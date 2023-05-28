@@ -73,6 +73,6 @@ Above are the top 20 most profitable genres
 ## Recomendations
 1. It is important to consider genres that are liked by many viewers before investiong in movie production industries. From the study above, action, horror, war movies have least rating and coresponding low revenue.
 2. When producing a sequel movies. It is important to take note of the viever reviview and comment before release of the net sequel.
-3. Based on the outcome of the study, Microsoft Production Studiio may consider producing adventure, Comedy, drama, fantasy and romance. This are the top earnig grenres as well as top rated ones.¶
+3. Based on the outcome of the study, Microsoft Production Studiio may consider producing adventure, Comedy, drama, fantasy and romance. This are the top earnig grenres as well as top rated ones.
 
 
